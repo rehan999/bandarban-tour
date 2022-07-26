@@ -1,0 +1,59 @@
+
+#lake-section{
+    background-color: rgba(238, 212, 212, 0.452);
+}
+.heading-style{
+    font-size: 75px;
+    color: rgb(20, 131, 112);
+    text-align: center;
+    padding: 10px;
+    border: 5px solid brown;
+    border-radius: 20px;
+    margin: 25px 10px 75px;
+    background-color: cornsilk;
+}
+
+
+.all-image{
+    border: 30px solid #a07237;
+    border-radius: 10px;
+    margin-right: 50%;
+}
+
+.heading2-style{
+    border: 1px solid palevioletred;
+    border-radius: 5px;
+    background-color: aliceblue;
+    text-align: center;
+    margin-left: auto;
+    color: rgba(26, 216, 137, 0.952);
+    font-size: 50px;
+}
+
+
+.passage-style{
+    margin: 5px;
+    border: 10px solid rgb(158, 98, 150);
+    border-radius: 15px;
+    padding: 15px;
+    text-align: justify;
+    margin-left: 50%;
+    background: linear-gradient(to bottom, rgb(221, 202, 97), rgb(113, 189, 189));
+
+}
+#nafakhum{
+    margin-top: 50px;
+    background-color: rgba(229, 255, 255, 0.842);
+}
+#sangu-river{
+    margin-top: 50px;
+    background-color: rgb(240, 231, 248);
+}
+#Nilgiri{
+    margin-top: 50px;
+    background-color: rgb(216, 247, 247);
+}
+#Buddha-temple{
+    margin-top: 50px;
+    background-color: rgb(241, 247, 216); 
+}
